@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "de.pennerimperium.app",
+      "package_name": "io.github.daniel92sbk_cell.twa",
       "sha256_cert_fingerprints": [
-        "PLATZHALTER_WIRD_NACH_BUBBLEWRAP_BUILD_ERSETZT"
+        "BD:90:E6:9C:A8:C7:BD:0A:53:8C:89:70:95:0E:7E:EF:B4:A5:DA:75:27:67:C3:0F:E2:D9:01:3A:96:47:22:DA"
       ]
     }
   }
